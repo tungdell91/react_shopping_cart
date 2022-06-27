@@ -1,1 +1,5 @@
-"# react_shopping_cart" 
+"# react_shopping_cart"
+
+Shopping Cart using React and Typescript
+
+
